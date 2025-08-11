@@ -1,0 +1,1 @@
+# aplicacao-python-consumo-segredos-hashicorp-vault
